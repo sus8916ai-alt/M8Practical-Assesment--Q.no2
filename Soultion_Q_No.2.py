@@ -113,3 +113,6 @@ if status == cv2.STITCHER_OK:
 
 plt.tight_layout()
 plt.show()
+
+print("hello Mithilesh")
+print("hello ali")
